@@ -1,0 +1,31 @@
+from aiogram import Router, types
+from aiogram.filters import Command
+from aiogram.fsm.context import FSMContext
+from aiogram.utils.keyboard import ReplyKeyboardMarkup, KeyboardButton
+from button import get_main_menu_buttons, key_menu
+
+router = Router()
+
+
+@router.message(Command("🛍 Shop"))
+async def show_shop_menu(message: types.Message):
+    await message.answer(
+        "Shop menyusi:",
+        reply_markup=key_menu
+    )
+
+
+@router.message(lambda message: message.text == "↩️ Back")
+async def back_to_main_menu(message: types.Message, state: FSMContext):
+    await message.answer(
+        "Asosiy menyu:",
+        reply_markup=get_main_menu_buttons()
+    )
+
+
+@router.message(lambda message: message.text == "🛒 View Items")
+async def show_items(message: types.Message):
+    await message.answer(
+        "Items menyusi:",
+        reply_markup=key_menu
+    )

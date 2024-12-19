@@ -1,4 +1,4 @@
-🎓 Quiz Bot — Bilimlarni sinovdan o‘tkazuvchi bot!
+🎓 Quiz Bot — Bilimlarni sinovdan o‘tkazuvchi aqlli yordamchingiz!
 
 Quiz Bot foydalanuvchilarni bilimini tekshirish, o‘qitish va qiziqarli o‘yin jarayonlari orqali rivojlantirish uchun mo‘ljallangan interaktiv platforma hisoblanadi. U quyidagi xususiyatlarga ega:
 
@@ -22,18 +22,17 @@ Quiz Bot nafaqat bilimni oshiradi, balki ta’lim jarayonini qiziqarli qiladi. O
 Maktab va universitetda ta’lim jarayonlari
 Kompaniyalarda xodimlarning bilim darajasini tekshirish
 Shaxsiy rivojlanish va bo‘sh vaqtni mazmunli o‘tkazish
+🛠 Texnologik asoslar
+Quiz Bot sun'iy intellekt va zamonaviy texnologiyalar yordamida ishlab chiqilgan. Uni yaratish jarayonida quyidagi kutubxonalardan foydalaniladi:
+
+aiogram: Telegram botlarini yaratish uchun qulay va kuchli Python kutubxonasi.
+👉 O‘rnatish: pip install aiogram
+tortoise-orm: Ma'lumotlar bazasi bilan ishlash uchun moslashuvchan va oson ORM (Object-Relational Mapping).
+👉 O‘rnatish: pip install tortoise-orm
 🤖 Quiz Bot — doimiy rivojlanishda!
 Yangi savollar qo‘shish, qiziqarli funksiyalarni yangilash va foydalanuvchilarning ehtiyojlariga moslashish orqali Quiz Bot sizga doimo foyda keltiradi.
 
 👉 Endi siz ham bilimlaringizni sinab ko‘rishga tayyormisiz? 🎉
 Quiz Bot bilan o‘qing, o‘ynang va o‘zingizni rivojlantiring!
 
-🎯 Bilim olish — bu qiziqarli sarguzashtdir!
-
-By Khafizov
-
-
-
-
-
-
+🎯 Bilim olish — bu qiziqarli sarguzasht!

@@ -1,4 +1,4 @@
-🎓 Quiz Bot — Bilimlarni sinovdan o‘tkazuvchi aqlli yordamchingiz!
+🎓 Quiz Bot — Bilimlarni sinovdan o‘tkazuvchi!
 
 Quiz Bot foydalanuvchilarni bilimini tekshirish, o‘qitish va qiziqarli o‘yin jarayonlari orqali rivojlantirish uchun mo‘ljallangan interaktiv platforma hisoblanadi. U quyidagi xususiyatlarga ega:
 
@@ -42,3 +42,7 @@ Yangi savollar qo‘shish, qiziqarli funksiyalarni yangilash va foydalanuvchilar
 Quiz Bot bilan o‘qing, o‘ynang va o‘zingizni rivojlantiring!
 
 🎯 Bilim olish — bu qiziqarli sarguzasht!
+
+
+By Khafizov !
+Yana shunga oxshash botlar kerak bolsa  https://t.me/Khafizov_page  shu telegram kanaldan topishingiz mumkin )
